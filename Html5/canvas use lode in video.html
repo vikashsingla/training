@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title></title>
+</head>
+<body>   <button onclick="chnagesource()" type="button">change video</button>
+<br>
+<video id="video1" controls="controls" autoplay="autoplay">
+    <source id="mp4_src" src="mov_bbb.mp4" type="video/mp4">
+    <source id="ogg_src" src="mov_bbb.ogg" type="video/ogg">
+
+</video>
+<script>
+    function changesource()
+    {
+        document.getElementById("mp4_src").src="movie.mp4";
+        document.getElementById("ogg_src").src="movie.ogg";
+        document.getElementById("video1").load();
+    }
+</script>
+
+</body>
+</html>

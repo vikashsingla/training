@@ -1,0 +1,20 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title></title>
+</head>
+<body> <button onclick="getVid()" type="button">Get current video URl</button> <br>
+<video id="video1"  controls="controls">
+   <source src="mov_bbb.mp4" type="video/mp4">
+   <source src="mov_bbb.ogg" type="video/ogg">
+</video>
+<script>
+    myVid=document.getElementById("video1");
+    function getVid()
+    {
+        alert(myVid.currentSrc);
+    }
+</script>
+
+</body>
+</html>

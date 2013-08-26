@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92228c3e-2579-4ed1-958f-2d64587bd1ac" name="Default" comment="" />
+    <ignored path="javascript.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Event creat.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376048718082" ignored="false" />
+    <file path="/java on html styl.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376049304321" ignored="false" />
+    <file path="/html5.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376052553385" ignored="false" />
+    <file path="/canvas inhtml5.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376110795874" ignored="false" />
+    <file path="/canvas fill style.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376112008006" ignored="false" />
+    <file path="/image used in java script.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376294242606" ignored="false" />
+    <file path="/stroke style.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376282731026" ignored="false" />
+    <file path="/html 5 canvas.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376283701897" ignored="false" />
+    <file path="/html5 circle drawing.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376285299762" ignored="false" />
+    <file path="/html5 canvas 4 text.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376288271782" ignored="false" />
+    <file path="/html5 shadow styal.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376290347147" ignored="false" />
+    <file path="/html5 shadow offsetx.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376292172168" ignored="false" />
+    <file path="/htmls canvas redial gradient.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376295022782" ignored="false" />
+    <file path="/html5 canvas linecap.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376298826773" ignored="false" />
+    <file path="/htmls canvas line width.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376301398707" ignored="false" />
+    <file path="/htmls canvas clip used.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376304975145" ignored="false" />
+    <file path="/canvas quadraticcurve.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376305668761" ignored="false" />
+    <file path="/htm5 canvas quadraticcurve.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376305999869" ignored="false" />
+    <file path="/html5 canvas scale.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376369275943" ignored="false" />
+    <file path="/html5 canvas translate.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376372087401" ignored="false" />
+    <file path="/html5 text baseline.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376373729989" ignored="false" />
+    <file path="/html5 canvas image used.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376375115101" ignored="false" />
+    <file path="/image data.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376376256188" ignored="false" />
+    <file path="/canvas get imagedata.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376381568858" ignored="false" />
+    <file path="/canvas global alpha.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376382965983" ignored="false" />
+    <file path="/canvas global composite operation.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376384413917" ignored="false" />
+    <file path="/canvas video types.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376390099878" ignored="false" />
+    <file path="/canvas use lode in video.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376391203834" ignored="false" />
+    <file path="/canvas video play&amp;pause button.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376460509623" ignored="false" />
+    <file path="/current src.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376458927462" ignored="false" />
+    <file path="/vidoe current time.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376466627383" ignored="false" />
+    <file path="/set media group.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376468533098" ignored="false" />
+    <file path="/Input Type.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376470025071" ignored="false" />
+    <file path="/form action.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376472040273" ignored="false" />
+    <file path="/a.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376475468007" ignored="false" />
+    <file path="/form target attribute.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376476775455" ignored="false" />
+    <file path="/forn height &amp;width attribute.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376477106105" ignored="false" />
+    <file path="/form multiple attribute.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376477839163" ignored="false" />
+    <file path="/form placeholder.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376478634210" ignored="false" />
+    <file path="/local storage.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376891470287" ignored="false" />
+    <file path="/click count.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376892817924" ignored="false" />
+    <file path="/Application cache.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376894826690" ignored="false" />
+    <file path="/web worker.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376898024820" ignored="false" />
+    <file path="/svg text.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376902286830" ignored="false" />
+    <file path="/svg gradient.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376907807909" ignored="false" />
+    <file path="/svg misc.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1376911421266" ignored="false" />
+    <file path="/Three rect change color.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1377149398896" ignored="false" />
+    <file path="/move text alone a motion path.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1377150482906" ignored="false" />
+    <file path="/Growing rect and change color.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1377152048591" ignored="false" />
+    <file path="/Move, rotate, and scale text along a motion path.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1377153265850" ignored="false" />
+    <file path="/youtube video in html.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1377158075884" ignored="false" />
+    <file path="$PROJECT_DIR$/../css/a.html" changelist="92228c3e-2579-4ed1-958f-2d64587bd1ac" time="1377165530931" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="javascript" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Application cache.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Application cache.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="33" selection-start="414" selection-end="414" vertical-scroll-proportion="-10.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web worker.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web worker.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="83" selection-start="388" selection-end="388" vertical-scroll-proportion="-9.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="svg text.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/svg text.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="54" selection-start="175" selection-end="175" vertical-scroll-proportion="-3.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="svg gradient.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/svg gradient.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="65" selection-start="535" selection-end="535" vertical-scroll-proportion="-8.75">
+              <folding>
+                <element signature="n#style#0;n#stop#0;n#radialGradient#0;n#defs#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#stop#1;n#radialGradient#0;n#defs#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="svg misc.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/svg misc.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="35" selection-start="281" selection-end="281" vertical-scroll-proportion="-5.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Three rect change color.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Three rect change color.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="74" selection-start="545" selection-end="545" vertical-scroll-proportion="-8.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="move text alone a motion path.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/move text alone a motion path.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="67" selection-start="342" selection-end="342" vertical-scroll-proportion="-5.625">
+              <folding>
+                <element signature="n#style#0;n#text#0;n#g#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Growing rect and change color.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Growing rect and change color.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="77" selection-start="200" selection-end="200" vertical-scroll-proportion="-3.75">
+              <folding>
+                <element signature="n#style#0;n#rect#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Move, rotate, and scale text along a motion path.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Move, rotate, and scale text along a motion path.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="8" selection-start="769" selection-end="769" vertical-scroll-proportion="-8.125">
+              <folding>
+                <element signature="n#style#0;n#text#0;n#g#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="youtube video in html.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/youtube video in html.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="38" selection-start="135" selection-end="135" vertical-scroll-proportion="0.20224719">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/forn height &amp;width attribute.html" />
+        <option value="$PROJECT_DIR$/form multiple attribute.html" />
+        <option value="$PROJECT_DIR$/form placeholder.html" />
+        <option value="$PROJECT_DIR$/a1.html" />
+        <option value="$PROJECT_DIR$/local storage.html" />
+        <option value="$PROJECT_DIR$/click count.html" />
+        <option value="$PROJECT_DIR$/Application cache.html" />
+        <option value="$PROJECT_DIR$/web worker.html" />
+        <option value="$PROJECT_DIR$/svg text.html" />
+        <option value="$PROJECT_DIR$/svg gradient.html" />
+        <option value="$PROJECT_DIR$/svg misc.html" />
+        <option value="$PROJECT_DIR$/Three rect change color.html" />
+        <option value="$PROJECT_DIR$/move text alone a motion path.html" />
+        <option value="$PROJECT_DIR$/Growing rect and change color.html" />
+        <option value="$PROJECT_DIR$/Move, rotate, and scale text along a motion path.html" />
+        <option value="$PROJECT_DIR$/youtube video in html.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="60" />
+    <option name="width" value="1004" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javascript" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Html5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../css" />
+    <property name="DefaultHtmlFileTemplate" value="Html" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.htmls canvas clip used.html">
+    <configuration default="false" name="htmls canvas clip used.html" type="JavascriptDebugSession" factoryName="Local" singleton="true" temporary="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" value="file://$PROJECT_DIR$/htmls canvas clip used.html" />
+      </JSDebuggerConfigurationSettings>
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.htmls canvas clip used.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.htmls canvas clip used.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92228c3e-2579-4ed1-958f-2d64587bd1ac" name="Default" comment="" />
+      <created>1376048195996</created>
+      <updated>1376048195996</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="60" width="1004" height="728" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24974412" sideWeight="0.6009693" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.3990307" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" x="78" y="287" width="934" height="247" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3279483" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/form multiple attribute.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="25" selection-start="184" selection-end="184" vertical-scroll-proportion="-4.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form placeholder.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="38" selection-start="268" selection-end="268" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="44" selection-start="351" selection-end="351" vertical-scroll-proportion="-7.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stroke style.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/local storage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="36" selection-start="382" selection-end="382" vertical-scroll-proportion="-13.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/click count.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="17" selection-start="802" selection-end="802" vertical-scroll-proportion="-17.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application cache.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="33" selection-start="414" selection-end="414" vertical-scroll-proportion="-10.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web worker.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="83" selection-start="388" selection-end="388" vertical-scroll-proportion="-9.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svg text.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="54" selection-start="175" selection-end="175" vertical-scroll-proportion="-3.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svg gradient.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="65" selection-start="535" selection-end="535" vertical-scroll-proportion="-8.75">
+          <folding>
+            <element signature="n#style#0;n#stop#0;n#radialGradient#0;n#defs#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#stop#1;n#radialGradient#0;n#defs#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Growing rect and change color.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="77" selection-start="200" selection-end="200" vertical-scroll-proportion="-3.75">
+          <folding>
+            <element signature="n#style#0;n#rect#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/move text alone a motion path.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="67" selection-start="342" selection-end="342" vertical-scroll-proportion="-5.625">
+          <folding>
+            <element signature="n#style#0;n#text#0;n#g#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Three rect change color.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="74" selection-start="545" selection-end="545" vertical-scroll-proportion="-8.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/svg misc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="35" selection-start="281" selection-end="281" vertical-scroll-proportion="-5.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Move, rotate, and scale text along a motion path.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="8" selection-start="769" selection-end="769" vertical-scroll-proportion="-8.125">
+          <folding>
+            <element signature="n#style#0;n#text#0;n#g#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/youtube video in html.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="38" selection-start="135" selection-end="135" vertical-scroll-proportion="0.20224719">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

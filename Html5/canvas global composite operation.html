@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title></title>
+</head>
+<body><canvas id="my" width="500" height="500" style="border: 1px solid #FF22DD"></canvas>
+<script>
+    var c=document.getElementById("my");
+    var ctx= c.getContext("2d");
+    ctx.fillStyle="red" ;
+    ctx.fillRect(30,10,200,100);
+    ctx.fillStyle="yellow";
+    ctx.fillRect(60,30,200,100) ;
+    ctx.globalCompositeOperation="source-over";
+    ctx.fillStyle="green";
+    ctx.fillRect(150,130,200,100);
+    ctx.fillStyle="blue" ;
+    ctx.globalCompositeOperation="source-atop";
+    ctx.fillRect(200,150,200,100);
+
+</script>
+
+</body>
+</html>

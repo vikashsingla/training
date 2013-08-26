@@ -1,0 +1,26 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title></title>
+</head>
+<body>         <button onclick="supportType
+(event,'video/mp4','avc1.42E01E, mp4a.40.2')"type="button">test</button>
+<p> <span>
+<button onclick="supportType(event,'video/ogg','theora,vorbis')" type="button">test</button>
+</span></p>
+<script>
+    function supportType(e,vidType,codType)
+    {
+        myVid=document.createElement('video');
+        isSupp=myVid.canPlayType(vidType+';codecs="'+codType+'"');
+        if(isSupp=="")
+        {
+            isSupp=="No";
+        }
+        e.target.parentNode.innerHTML="Answer:" +isSupp;
+
+    }
+</script>
+
+</body>
+</html>

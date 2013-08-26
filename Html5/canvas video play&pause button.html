@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title></title>
+</head>
+<body> <button onclick="enableAutoplay()" type="button">Enable Autoplay</button>
+<button onclick="disableAutoplay()" type="button">Disable Autoplay</button>
+<button onclick="checkAutoplay()" type="button">Check Autoplay</button>
+<button onclick="getFirstBuffrange()" type="button">Get first buffer on range</button>  <br>
+<video id="video1" controls="controls">
+        <source src="http://www.w3schools.com/tags/mov_bbb.mp4" type="video/mp4">
+        <source src="mov_bbb.ogg" type="video/ogg">
+</video>
+<script>
+    var myVid=document.getElementById("video1");
+
+    function enableAutoplay()
+    {
+        myVid.Autoplay=true;
+        myVid.load();
+    }
+
+    function disableAutoplay()
+    {
+        myVid.Autoplay=false;
+        myVid.load();
+    }
+    function checkAutoplay()
+    {
+        alert(myVid.Autoplay);
+    }
+    function getFirstBuffrange()
+    {
+        alert('hello');
+        alert("start:" + myVid.buffered.start(0) + "End:" + myVid.buffered.end(0));
+    }
+</script>
+
+</body>
+</html>

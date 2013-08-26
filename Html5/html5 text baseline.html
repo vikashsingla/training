@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title></title>
+</head>
+<body>        <canvas id="my" width="500" height="500" style="border: 1px solid #00FF00"></canvas>
+<script>
+    var c=document.getElementById("my");
+    var ctx= c.getContext("2d");
+    ctx.strokeStyle="red";
+    ctx.moveTo(0,100);
+    ctx.lineTo(500,100);
+    ctx.stroke();
+
+
+    ctx.textBaseline="Top";
+    ctx.fillText("Top",0,95);
+    ctx.textBaseline="middle" ;
+    ctx.fillText('middle',100,100) ;
+    ctx.textBaseline="alphabatic" ;
+    ctx.fillText("alphabatic",290,110);
+
+
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title></title>
+</head>
+<body><canvas id="my" width="500" height="500" style="border: 1px solid #00FF00"></canvas>
+<script>
+    var c=document.getElementById("my");
+    var ctx= c.getContext("2d");
+    ctx.fillStyle="red";
+    ctx.fillRect(30,30,200,150);
+
+    function copy()
+    {
+        var imgData=ctx.getImageData(30,30,200,150) ;
+        ctx.putImageData(imgData,100,200);
+    }
+</script>
+<button onclick="copy()">copy</button>
+
+</body>
+</html>

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+</head>
+<body > <img src="file:///home/manusis/Pictures/images.jpg" width="30" height="30" id="pc"/>
+<p>canvas</p>
+<button onclick="draw('repeat')">Repeat</button>
+<button onclick="draw('repeat-x')">Repeat-x</button>
+<button onclick="draw('repeat-y')">Repeat-y</button>
+<button onclick="draw('no-repeat')">No-Repeat</button> <br>
+
+
+<canvas id="mycanvas" width="500" height="500"
+        style="border:1px solid #FF0000 ">
+        </canvas>
+<script>
+    function draw(direction)
+    {
+    var c=document.getElementById("mycanvas");
+    var ctx= c.getContext("2d");
+    ctx.clearRect(0,0, c.width, c.height);
+    var img=document.getElementById("pc");
+    var pat=ctx.createPattern(img,direction);
+    ctx.rect(30,40,150,100);
+    ctx.fillStyle=pat;
+    ctx.fill(); }
+
+</script>
+
+</body>
+</html>

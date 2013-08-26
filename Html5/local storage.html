@@ -1,0 +1,24 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title></title>
+</head>
+<body> <div id="result">
+
+</div>
+<script>
+    if(typeof(Storage)!=="undefined")
+    {
+        localStorage.lastname="vikash" ;
+        document.getElementById("result").innerHTML="last name:"
+        + localStorage.lastname;
+    }
+    else
+    {
+        document.getElementById("result").innerHTML="sorry";
+    }
+
+</script>
+
+</body>
+</html>

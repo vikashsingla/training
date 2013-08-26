@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title></title>
+</head>
+<body>  <button onclick="getCurTime()" type="button">Get Current time</button>
+  <button onclick="setCurTime()" type="button">Set Current time</button>
+  <button onclick="getMuted()" type="button">video muted by default</button>
+  <button onclick="setToMuted()" type="button">set video to be muted by default</button>
+  <button onclick="getPlaySpeed()" type="button">What is the default play back speed</button>
+  <button onclick="setPlaySpeed()" type="button">set play speed</button>
+  <button onclick="getVidDur()" type="button">Get Video Length</button>
+  <button onclick="hasVidEnded()" type="button">Has the video play speed ended</button>
+  <button onclick="getError()" type="button">Get Error State</button> <br>
+<video id="video1" controls="controls" autoplay="autoplay">
+    <source src="http://www.w3schools.com/tags/mov_bbb.mp4" type="video/mp4">
+    <source src="http://www.w3schools.com/tags/mov_bbb.ogg" type="video/ogg">
+
+</video>
+<script>
+    var myVid=document.getElementById("video1");
+    function getCurTime()
+    {
+        alert(myVid.currentTime);
+    }
+    function setCurTime()
+    {
+       myVid.currentTime=5;
+    }
+    function getMuted()
+    {
+        alert(myVid.defaultMuted);
+    }
+    function setToMuted()
+    {
+        myVid.defaultMuted=true;
+        myVid.load();
+    }
+    function getPlaySpeed()
+    {
+        alert(myVid.defaultPlaybackRate);
+    }
+    function setPlaySpeed()
+    {
+        myVid.defaultPlaybackRate=0.5;
+        myVid.load();
+    }
+    function getVidDur()
+    {
+        alert(myVid.duration);
+    }
+    function hasVidEnded()
+    {
+        alert(myVid.ended);
+    }
+    function getError()
+    {
+        alert(myVid.error.code);
+    }
+</script>
+
+</body>
+</html>
